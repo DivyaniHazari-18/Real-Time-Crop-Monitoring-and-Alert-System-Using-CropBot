@@ -21,7 +21,7 @@ The Real-Time Crop Monitoring and Alert System using CropBot is an IoT-based sol
 
 Soil Moisture Sensor
 
-Temperature & Humidity Sensor (DHT11/DHT22)
+Temperature & Humidity Sensor (DHT11)
 
 Rain Sensor
 
