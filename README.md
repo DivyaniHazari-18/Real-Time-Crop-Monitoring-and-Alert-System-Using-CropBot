@@ -164,7 +164,7 @@ https://github.com/user-attachments/assets/139cd441-05c3-4de1-91cd-90afef108f9e
 
 ### Hardware Connection
 
-![Image](https://github.com/user-attachments/assets/f69c31d1-8552-4289-8bff-c37bddb040ed)
+![Hardware_Connection](https://github.com/user-attachments/assets/18eb569a-3714-403b-a0b8-873912fcd59c)
 
 ### Blynk IoT Output
 
