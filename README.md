@@ -122,7 +122,7 @@ Connect all GNDs together (ESP32, sensors, relay, motor power supply if shared).
 - Alert messages via Telegram
 
 ## 📁Project File Structure
-``
+```
 Real-Time-Crop-Monitoring/
 │
 ├── code/
@@ -136,7 +136,7 @@ Real-Time-Crop-Monitoring/
 │   └── project_report.pdf
 │
 └── README.md
-``
+```
 
 ## ▶️How to Run the Project
 
