@@ -1,7 +1,7 @@
 # Real-Time-Crop-Monitoring-and-Alert-System-Using-CropBot
 ## 📌Project Overview
 
-The Real-Time Crop Monitoring and Alert System using CropBot is an IoT-based solution designed to help farmers monitor field conditions in real time. It continuously tracks environmental parameters such as soil moisture, temperature, humidity, and rainfall, and sends instant alerts when abnormal conditions are detected, enabling timely action and improved crop yield.
+The Real-Time Crop Monitoring and Alert System using CropBot is an IoT-based solution designed to help farmers monitor field conditions in real time. It continuously tracks environmental parameters such as soil moisture, temperature, humidity, and Light. Instant alerts when abnormal conditions are detected, enabling timely action and improved crop yield.
 
 ## 🎯Objectives
 
@@ -24,6 +24,8 @@ Soil Moisture Sensor
 Temperature & Humidity Sensor (DHT11/DHT22)
 
 Rain Sensor
+
+LDR Sensor
 
 **Cloud Platforms:** ThingSpeak,Blynk IoT
 
@@ -63,7 +65,7 @@ Rain Sensor
 
 `Humidity`
 
-`Rain detection`
+`Light`
 
 ## Connections
 
@@ -178,13 +180,13 @@ https://github.com/user-attachments/assets/139cd441-05c3-4de1-91cd-90afef108f9e
 
 ## 🚀Future Enhancements
 
-- AI-based crop disease detection
+- AI-based crop disease detection.
 
-- Automatic irrigation control
+- Automatic irrigation control.
 
-- Integration with weather forecasting APIs
+- Integration with weather forecasting APIs.
 
-- Camera-based crop monitoring using OpenCV
+- Camera-based crop monitoring using OpenCV.
 
 ## 📜 License
 
